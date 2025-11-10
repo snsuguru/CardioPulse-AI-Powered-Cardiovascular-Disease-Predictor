@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221944580725",
+    "project_id": "heart-app-1838c",
+    "storage_bucket": "heart-app-1838c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221944580725:android:388ae3619835b8a88f463c",
+        "android_client_info": {
+          "package_name": "com.aountech.heartdiseasesprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221944580725-itc3lg0i1060ekdplsbcn59ro534bgit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aountech.heartdiseasesprediction",
+            "certificate_hash": "bf61177ac1131468f49db90a2e19c3c3565b42e5"
+          }
+        },
+        {
+          "client_id": "221944580725-9s4q2v01ekb533j5qsgj9nlivkb4fp7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPopl7D4K_xi5G_EC-K0Qg8TFSkxIMUMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221944580725-9s4q2v01ekb533j5qsgj9nlivkb4fp7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
